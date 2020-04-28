@@ -10,6 +10,6 @@ Woody
 ### Website
 https://cyberbotics.com/
 
-![Image of Webots](https://github.com/woodjj1/Webots-Documentation/images/webotsDownload.JPG)
+![webot image](https://github.com/woodjj1/Webots-Documentation/blob/master/images/webotsDownload.JPG)
 
 
